@@ -1,0 +1,45 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Varela+Round');
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.brand-logo {
+	font-family: "Pacifico", Cursive;
+	transition: .3s ease ;
+}
+
+.brand-logo:hover {
+	color: #ffecb3;
+}
+
+.menu-item {
+	font-family: 'Varela Round', sans-serif;
+}
+
+.header-image {
+	padding: 0px !important;
+	margin: 0px !important;
+}
+
+.fade {
+    overflow: hidden;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+
+
